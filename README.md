@@ -34,7 +34,7 @@ I don't have too many projects yet, but here are a few I do have:
 
 [TraitorBot](https://github.com/TheChilliPL/traitorbot)
 ---
-A Discord bot written in Kotlin, using [JDA](https://github.com/DV8FromTheWorld/JDA) Discord API wrapper and [JetBrains Exposed](https://github.com/JetBrains/Exposed) SQL Framework. Made originally for playing Among Us, but more features are planned.
+A Discord bot written in Kotlin, using [JDA](https://github.com/DV8FromTheWorld/JDA) Discord API wrapper and [HikariCP](https://github.com/brettwooldridge/HikariCP) database connection pool for [JDBC](https://en.wikipedia.org/wiki/Java_Database_Connectivity). Made originally for playing Among Us, but more features are planned.
 
 [FastCrafting](https://github.com/TheChilliPL/fastcrafting)
 ---
