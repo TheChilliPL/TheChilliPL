@@ -1,4 +1,4 @@
-Hello, I'm [**Patryk Anuszczyk**][Website] and I'm a 18-year-old programmer from Poland.
+Hello, I'm Patryk Anuszczyk and I'm a 18-year-old programmer from Poland.
 
 If you want to donate, you can do that through PayPal:  
 [<img src="donate.png" alt="Donate" />](https://www.paypal.com/donate?hosted_button_id=8HYK8SQJXZCGS)  
@@ -48,9 +48,4 @@ Smaller things
 
 Contributions
 ---
-[MassiveDecks](https://github.com/Lattyware/massivedecks)—full Polish translation of the game MassiveDecks based on [Cards Against Humanity][CAH]. Features full Polish declination. (18+)
-
-<!-- Links -->
-
-[Website]: https://patrykanuszczyk.me/ "Click here to see my website!"
-[CAH]: https://cardsagainsthumanity.com/
+[MassiveDecks](https://github.com/Lattyware/massivedecks)—full Polish translation of the game MassiveDecks based on [Cards Against Humanity](https://cardsagainsthumanity.com/). Features full Polish declination. (18+)
