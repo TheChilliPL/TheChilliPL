@@ -1,4 +1,4 @@
-Hello, I'm Patryk Anuszczyk and I'm a 18-year-old programmer from Poland.
+Hello, I'm Chilli and I'm a 20-year-old programmer from Poland.
 
 If you want to donate, you can do that through PayPal:  
 [<img src="donate.png" alt="Donate" />](https://www.paypal.com/donate?hosted_button_id=8HYK8SQJXZCGS)  
