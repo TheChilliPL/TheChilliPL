@@ -12,6 +12,9 @@
 - Keyboard: **Endorfy Thock Wireless Brown Kailh Brown Box**
 - Mouse: **Trust Voxx**
 - OS: **Windows 11 Pro**
+- Extras:
+  - **DualSense** Controller (for PC gaming)
+  - **Quest 3S** VR Headset
 
 # Laptop Specification
 
@@ -23,3 +26,20 @@
 - Display: **16" 1920×1200 (WUXGA)**
 - Battery: **4-cell, 3420 mAh**
 - OS: **Windows 11 Pro**
+
+# Phone Specification
+
+- Model: **Xiaomi Redmi Note 13 Pro+ 5G**
+- CPU: **MediaTek Dimensity 7200-Ultra**, 2×2.8 GHz, A715 + 6× 2.0 GHz, A510, 4 nm
+- GPU: **Mali-G610 MC4**
+- RAM: **12 GB**
+- Storage: **512 GB**
+- Display: **6.67" 2712×1220**
+- Battery: **5000 mAh**
+  - Charging at 120 W
+- Cameras:
+  - Main: **200 Mpx** (f/2.4)
+  - Ultra-wide: 8 Mpx (f/2.2)
+  - Macro: 2 Mpx (f/1.65)
+  - Selfie: **16 Mpx\***
+- OS: **Xiaomi HyperOS 1.0.10.0** based on Android 14
