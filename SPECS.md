@@ -25,7 +25,7 @@
   - **SSD** NVMe **512GB**
 - Display: **16" 1920×1200 (WUXGA)**
 - Battery: **4-cell, 3420 mAh**
-- OS: **Windows 11 Pro**
+- OS: **NixOS** (Linux)
 
 # Phone Specification
 
