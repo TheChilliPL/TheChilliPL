@@ -8,13 +8,23 @@
   - **HDD** Toshiba **1.5TB**
   - **SSD** ADATA Ultimate SU800 **1TB** 2.5" SATA III
   - **SSD** ADATA XPG SX8200 PRO **1TB** M.2 2280 PCI-E x4 Gen3 NVMe
-  - **HDD** Seagate BarraCuda **8TB** 3.5" SATA III
 - Keyboard: **Endorfy Thock Wireless Brown Kailh Brown Box**
-- Mouse: **Trust Voxx**
+- Mouse: **Logitech MX Vertical**
 - OS: **Windows 11 Pro**
 - Extras:
   - **DualSense** Controller (for PC gaming)
   - **Quest 3S** VR Headset
+
+# Homelab Specification
+
+- Motherboard: **ASRock H81M-DG4**
+- CPU: **Intel Core i5-4690K CPU**, 3.5-3.8 GHz, 6 MB L3 cache
+- RAM: **16 GB**, DDR3 (2×8)
+- GPU: **NVIDIA GeForce GTX 1060 3GB**
+- Storage:
+  - **HDD** Seagate BarraCuda **8TB** 3.5" SATA III
+- OS: **Debian GNU/Linux 12** (Bookworm)
+- Kernel: 6.1.0-37-amd64
 
 # Laptop Specification
 
