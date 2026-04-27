@@ -10,7 +10,13 @@
   - **SSD** ADATA XPG SX8200 PRO **1TB** M.2 2280 PCI-E x4 Gen3 NVMe
 - Keyboard: **Endorfy Thock Wireless Brown Kailh Brown Box**
 - Mouse: **Logitech MX Vertical**
-- OS: **Windows 11 Pro**
+- OS: **EndeavourOS**, Linux x86_64, Arch-based, rolling release
+- Monitors:
+  - Primary: **Samsung UE32K5572SU**, 32" smart TV, 1080p60
+  - Secondary: **Samsung S22D300**, 21.5", 1080p60
+- Controllers:
+  - Hopefully soon **the new Steam Controller**
+  - **DualSense CFI-ZCT1W**, white
 - Extras:
   - **DualSense** Controller (for PC gaming)
   - **Quest 3S** VR Headset
@@ -24,7 +30,6 @@
 - Storage:
   - **HDD** Seagate BarraCuda **8TB** 3.5" SATA III
 - OS: **Debian GNU/Linux 12** (Bookworm)
-- Kernel: 6.1.0-37-amd64
 
 # Laptop Specification
 
@@ -35,7 +40,7 @@
   - **SSD** NVMe **512GB**
 - Display: **16" 1920×1200 (WUXGA)**
 - Battery: **4-cell, 3420 mAh**
-- OS: **NixOS** (Linux)
+- OS: **EndeavourOS**, Linux x86_64, Arch-based, rolling release
 
 # Phone Specification
 
