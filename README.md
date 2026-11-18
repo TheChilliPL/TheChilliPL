@@ -1,51 +1,25 @@
-Hello, I'm Chilli and I'm a 20-year-old programmer from Poland.
+Hello, I'm Chilli and I'm a young programmer from Poland.
 
 If you want to donate, you can do that through PayPal:  
 [<img src="donate.png" alt="Donate" />](https://www.paypal.com/donate?hosted_button_id=8HYK8SQJXZCGS)  
 
-Languages I use
-===============
+Currently studying at the [Łódź University of Technology](<https://p.lodz.pl/en>), majoring in Applied Computer Science.
 
-C# &#9733;&#9733;&#9733;&#9733;&#9734;
----
-The language called **C#** with a framework called **.NET Core** is something I've used for years.
+You can see and play the game I had to make using a custom engine written in Rust below:
+[![Overtaken by Disorderly Team](https://github.com/user-attachments/assets/542b590a-9912-45d8-ad48-d90cc95577be)](https://github.com/DisorderlyTeam/overtaken)
 
-Web development &#9733;&#9733;&#9733;&#9733;&#9734;
----
-I can create websites using pure **HTML, CSS and JavaScript**, but usually I use **SCSS** because of its convenience.
+I mainly use Rust and have some hobbyist experience in web technologies (JavaScript, TypeScript, (S)CSS, HTML), but have also dabbled in Java, Kotlin, C#, C++, and probably some more I might not remember anymore. I've been programming as a hobby for most of my life at this point.
 
-Kotlin &#9733;&#9733;&#9733;&#9734;&#9734;
----
-**Kotlin** is a language I've learned not so long ago, but it became one of the most used languages now. I managed to learn it fast because of its similarities to C#. It has a lot of nice and convenient features so coding in it is pure pleasure!
+Some of my other projects include:
+- [**Orchard**](https://github.com/TheChilliPL/orchard), a Linux MQTT daemon reporting system statistics and allowing some remote control. Written in Rust.
+- [**Planner**](https://github.com/TheChilliPL/planner), a little Rust utility for generating iCal calendar files based on a regular schedule. Mostly used for university class schedule.
+- [**ProtoView**](https://github.com/TheChilliPL/protoview), a UI for exploring Protobuf data even without a known schema. Written in Rust with egui, includes a custom Protobuf parser. Managed to compile it to WASM, so [you can try it out at github.io.](https://thechillipl.github.io/protoview)
+- [**LinkSan**](https://github.com/TheChilliPL/linksan), a link sanitizing daemon for Linux/Wayland, implementing the `ext-data-control` Wayland protocol, controllable via tray. Written in Rust.
+- [**Gitnudge**](https://github.com/TheChilliPL/gitnudge), a daemon reminding me to commit any changes made to local Git repos. Written in Rust.
+- [**Busker**](https://github.com/TheChilliPL/busker), a Discord music bot playing from YouTube. Written in Typescript (Node.js).
+- [**`textcomponentserialization`**](https://github.com/TheChilliPL/textcomponentserialization), a library for Minecraft/Spigot written in Kotlin for serializing and deserializing text components.
 
-Java &#9733;&#9733;&#9733;&#9734;&#9734;
----
-C++ &#9733;&#9733;&#9734;&#9734;&#9734;
----
-PHP &#9733;&#9733;&#9734;&#9734;&#9734;
----
-I know some **Java, C++ and PHP**, but I don't use these languages that often.  
-I used to experiment a bit in PHP, do some algorithmic exercises (also for contests) in C++,
-and I tried to do something in Java but Kotlin seemed just way more convenient.
+And some incomplete ones:
+- [**Yeelight API wrapper**](https://github.com/TheChilliPL/yeelight), written in Java.
 
-My projects
-===========
-I don't have too many projects yet, but here are a few I do have:
-
-[TraitorBot](https://github.com/TheChilliPL/traitorbot)
----
-A Discord bot written in Kotlin, using [JDA](https://github.com/DV8FromTheWorld/JDA) Discord API wrapper and [HikariCP](https://github.com/brettwooldridge/HikariCP) database connection pool for [JDBC](https://en.wikipedia.org/wiki/Java_Database_Connectivity). Made originally for playing Among Us, but more features are planned.
-
-[FastCrafting](https://github.com/TheChilliPL/fastcrafting)
----
-A simple Spigot plugin allowing you to open Minecraft workbench without placing it in the world!
-
-**And more coming soon!**
-
-Smaller things
----
-[Discord AMOBlack](https://github.com/TheChilliPL/discord-amoblack)—theme for [BandagedBD](https://github.com/rauenzi/BetterDiscordApp) allowing you to text on Discord in the middle of the night without your eyes burning. It's also perfect for AMOLED displays.
-
-Contributions
----
-[MassiveDecks](https://github.com/Lattyware/massivedecks)—full Polish translation of the game MassiveDecks based on [Cards Against Humanity](https://cardsagainsthumanity.com/). Features full Polish declination. (18+)
+I've also used Linux as a daily driver for over a year and for servers for a few years. I maintain a homelab server with some private services, running via Traefik reverse proxy (previously Nginx), with everything containerized with Docker.
