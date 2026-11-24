@@ -15,11 +15,13 @@
   - Primary: **Samsung UE32K5572SU**, 32" smart TV, 1080p60
   - Secondary: **Samsung S22D300**, 21.5", 1080p60
 - Controllers:
-  - Hopefully soon **the new Steam Controller**
+  - **Steam Controller** (2026), model 1011
   - **DualSense CFI-ZCT1W**, white
 - Extras:
-  - **DualSense** Controller (for PC gaming)
   - **Quest 3S** VR Headset
+  - **Logitech Brio 105** webcam, 1080p, 2 Mpx
+  - **Canon TR4551** 4-in-1 printer
+  - **Creality Ender 3 S1** 3D printer, upgraded
 
 # Homelab Specification
 
@@ -28,6 +30,7 @@
 - RAM: **16 GB**, DDR3 (2×8)
 - GPU: **NVIDIA GeForce GTX 1060 3GB**
 - Storage:
+  - **SSD** GoodRam CX400 gen.2 **512GB** 2.5" SATA III
   - **HDD** Seagate BarraCuda **8TB** 3.5" SATA III
 - OS: **Debian GNU/Linux 12** (Bookworm)
 
